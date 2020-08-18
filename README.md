@@ -24,6 +24,6 @@ apt-get install python3-venv
 ```
 
 ```bash
-git clone https://github.com/l3mde/dotfiles.git ~/dotfiles
+git clone https://github.com/brucke/dotfiles.git ~/dotfiles
 ./dotdrop install -p default
 ```
