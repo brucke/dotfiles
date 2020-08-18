@@ -14,11 +14,8 @@ COMPLETION_WAITING_DOTS="true"
 HIST_STAMPS="yyyy-mm-dd"
 
 plugins=(
-  adb
-  archlinux
   autopep8
   aws
-  cargo
   catimg
   colored-man-pages
   colorize
@@ -28,7 +25,6 @@ plugins=(
   copyfile
   cp
   dirhistory
-  django
   dnf
   docker
   docker-compose
@@ -45,7 +41,6 @@ plugins=(
   history-substring-search
   jump
   jsontools
-  kops
   kubectl
   magic-enter
   nmap
@@ -61,7 +56,6 @@ plugins=(
   timer
   tmux
   urltools
-  yum
   wd
 )
 

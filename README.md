@@ -17,4 +17,13 @@ This repository will automatically provide my dotfiles to new installations
 
 Inside the repository:
 
-`./dotdrop install -p default`
+requirements
+
+```bash
+apt-get install python3-venv
+```
+
+```bash
+git clone https://github.com/l3mde/dotfiles.git ~/dotfiles
+./dotdrop install -p default
+```
